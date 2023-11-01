@@ -35,15 +35,6 @@ My name is Bonnie Zhu, Grade 11 student in <a href="http://mths.ca">St. Mother T
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
 </div>
 
-<h2>🌟 Social</h2
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
-</div>
-
 ###
 
   ## 🔧 Tools
