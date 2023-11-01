@@ -5,17 +5,18 @@ My name is Bonnie Zhu, Grade 11 student in <a href="http://mths.ca">St. Mother T
 [![Bonnie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bonnie-Zhu)](https://github.com/Bonnie-Zhu/github-readme-stats)
 
 <h2>🌟 Social</h2
-<div align="left">
+<div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="52" height="40" alt="visualstudio logo"  />
 </div>
 
+###
+
   <h2>✍ Programming Languages</h2>
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -31,13 +32,9 @@ My name is Bonnie Zhu, Grade 11 student in <a href="http://mths.ca">St. Mother T
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
 </div>
 
-<div align="center">
-  <img height="200" src="https://www.sarvgyan.com/hc/wp-content/uploads/2014/06/cse-image.jpg"  />
-</div>
-
 ###
   <h2>💻 Operating Systems</h2>
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
@@ -49,7 +46,7 @@ My name is Bonnie Zhu, Grade 11 student in <a href="http://mths.ca">St. Mother T
 
   ## 🔧 Tools
 
-  <div align="left">
+  <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
@@ -57,7 +54,7 @@ My name is Bonnie Zhu, Grade 11 student in <a href="http://mths.ca">St. Mother T
 
  ## 🎨 Design
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
@@ -66,3 +63,7 @@ My name is Bonnie Zhu, Grade 11 student in <a href="http://mths.ca">St. Mother T
 ## 🎓 Education
 
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
+
+<div align="center">
+  <img height="200" src="https://www.sarvgyan.com/hc/wp-content/uploads/2014/06/cse-image.jpg"  />
+</div>
