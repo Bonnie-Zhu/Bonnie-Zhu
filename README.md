@@ -13,6 +13,7 @@ My name is Bonnie Zhu, Grade 11 student in <a href="http://mths.ca">St. Mother T
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="52" height="40" alt="visualstudio logo"  />
 </div>
+
   <h2>✍ Programming Languages</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -30,9 +31,6 @@ My name is Bonnie Zhu, Grade 11 student in <a href="http://mths.ca">St. Mother T
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
 </div>
 
-###
-###
-
 <div align="center">
   <img height="200" src="https://www.sarvgyan.com/hc/wp-content/uploads/2014/06/cse-image.jpg"  />
 </div>
@@ -49,22 +47,13 @@ My name is Bonnie Zhu, Grade 11 student in <a href="http://mths.ca">St. Mother T
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
 </div>
 
-###
-  
   ## 🔧 Tools
 
-  !<div align="left">
+  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
-
-###
-  ## 🌐 Browsers
-
-  ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-
-  ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
 
  ## 🎨 Design
 
