@@ -10,7 +10,22 @@ My name is Bonnie Zhu, Grade 11 student in <a href="http://mths.ca">St. Mother T
   <a href="https://github.com/search?q=user%3ABonnie-Zhu+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
   <a href="https://github.com/search?q=user%3ABonnie-Zhu+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
   <p>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="52" height="40" alt="visualstudio logo"  />
+</div>
 
+###
+
+<div align="center">
+  <img height="200" src="https://www.sarvgyan.com/hc/wp-content/uploads/2014/06/cse-image.jpg"  />
+</div>
+
+###
   <h2>💻 Operating Systems</h2>
 <p>
   <img src="https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=white" alt="Mac OS">
